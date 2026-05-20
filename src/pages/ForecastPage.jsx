@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import { useNavigate } from 'react-router-dom'
 import ForecastList from '../components/ForecastList'
+import Icon from '../components/Icon'
 import { useSettings } from '../hooks/useSettings'
 import { useWeather } from '../hooks/useWeather'
 
@@ -20,9 +21,7 @@ export default function ForecastPage() {
         onClick={() => navigate('/settings')}
         aria-label={t('settings.title')}
       >
-        <svg className="nav-icon" width="20" height="20">
-          <use href="icons.svg#gear-icon" />
-        </svg>
+        <Icon name="gear" className="nav-icon" />
       </button>
       {loading && <p className="forecast-page-status">{t('common.loading')}</p>}
       {error && <p className="forecast-page-status forecast-page-error">{error}</p>}
