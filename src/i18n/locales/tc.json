@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "title": "設定",
+    "language": "語言",
+    "district": "地區",
+    "station": "氣象站"
+  },
+  "language": {
+    "en": "English",
+    "tc": "繁體中文",
+    "sc": "简体中文"
+  },
+  "currentWeather": {
+    "title": "現時天氣",
+    "temp": "氣溫",
+    "humidity": "濕度",
+    "weatherIcon": "天氣圖標"
+  },
+  "forecast": {
+    "title": "九天預報"
+  },
+  "nav": {
+    "current": "現時天氣",
+    "forecast": "九天預報"
+  },
+  "common": {
+    "loading": "載入中...",
+    "back": "返回"
+  }
+}

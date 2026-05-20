@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "district": "地区",
+    "station": "气象站"
+  },
+  "language": {
+    "en": "English",
+    "tc": "繁體中文",
+    "sc": "简体中文"
+  },
+  "currentWeather": {
+    "title": "现时天气",
+    "temp": "气温",
+    "humidity": "湿度",
+    "weatherIcon": "天气图标"
+  },
+  "forecast": {
+    "title": "九天预报"
+  },
+  "nav": {
+    "current": "现时天气",
+    "forecast": "九天预报"
+  },
+  "common": {
+    "loading": "加载中...",
+    "back": "返回"
+  }
+}

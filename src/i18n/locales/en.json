@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "district": "District",
+    "station": "Station"
+  },
+  "language": {
+    "en": "English",
+    "tc": "繁體中文",
+    "sc": "简体中文"
+  },
+  "currentWeather": {
+    "title": "Current Weather",
+    "temp": "Temp",
+    "humidity": "Humidity",
+    "weatherIcon": "Weather icon"
+  },
+  "forecast": {
+    "title": "9-Day Forecast"
+  },
+  "nav": {
+    "current": "Current Weather",
+    "forecast": "9-Day Forecast"
+  },
+  "common": {
+    "loading": "Loading...",
+    "back": "Back"
+  }
+}
