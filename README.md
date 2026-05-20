@@ -1,6 +1,8 @@
 # Hong Kong Weather App
 
-A lightweight, mobile-friendly weather application built with React and Vite. It displays real-time weather data and a 9-day forecast for Hong Kong using the [Hong Kong Observatory (HKO) Open Data API](https://www.hko.gov.hk/en/informtc/weatherapi/index.html).
+A lightweight, mobile-friendly weather application built with React and Vite. It displays real-time weather data and a 9-day forecast for Hong Kong using the Hong Kong Observatory (HKO) Open Data API
+
+[ [English](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | [Traditional Chinese](https://www.hko.gov.hk/tc/abouthko/opendata_intro.htm) | [Simplified Chinese](https://www.hko.gov.hk/sc/abouthko/opendata_intro.htm) ]
 
 ## Features
 
